@@ -1,0 +1,520 @@
+/* screen - udvalg */
+
+.udvalg {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 5289px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.udvalg .gratis-vejledning-v {
+  color: var(--white);
+  font-family: var(--font-family-playfair_display);
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: -0.19px;
+  line-height: 15px;
+  margin-left: 1.0px;
+  margin-top: -142px;
+  min-width: 197px;
+  white-space: nowrap;
+}
+
+.udvalg .rectangle-52 {
+  height: 513px;
+  margin-top: 127px;
+  object-fit: cover;
+  width: 1440px;
+}
+
+.udvalg .vector {
+  height: 38px;
+  margin-left: 1.0px;
+  margin-top: 24px;
+  width: 45px;
+}
+
+.udvalg .album {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 31px;
+  margin-left: 19.0px;
+  margin-top: 35px;
+  min-height: 384px;
+  width: 997px;
+}
+
+.udvalg .vores-udvalg {
+  align-self: center;
+  font-family: var(--font-family-playfair_display);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  letter-spacing: -0.46px;
+  line-height: 36px;
+  margin-right: 17.0px;
+  min-width: 172px;
+}
+
+.udvalg .flex-row {
+  gap: 13px;
+  height: 317px;
+  min-width: 979px;
+}
+
+.udvalg .flex-col {
+  flex-direction: column;
+  gap: 7px;
+  min-height: 317px;
+  width: 235px;
+}
+
+.udvalg .rectangle {
+  cursor: pointer;
+  height: 292px;
+  object-fit: cover;
+  width: 235px;
+}
+
+.udvalg .overlap-group {
+  height: 18px;
+  position: relative;
+  width: 235px;
+}
+
+.udvalg .number {
+  cursor: pointer;
+  left: 201px;
+  letter-spacing: -0.30px;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.udvalg .link {
+  cursor: pointer;
+  left: 0;
+  letter-spacing: -0.30px;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 235px;
+}
+
+.udvalg .number-2 {
+  left: 201px;
+  letter-spacing: -0.30px;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.udvalg .fordele-sektion {
+  align-items: flex-start;
+  display: flex;
+  height: 285px;
+  margin-left: 2.0px;
+  margin-top: 108px;
+  min-width: 1442px;
+}
+
+.udvalg .overlap-group8 {
+  align-items: center;
+  background-color: #e4e1da;
+  display: flex;
+  flex-direction: column;
+  min-height: 285px;
+  padding: 24px 277px;
+  width: 1440px;
+}
+
+.udvalg .vores-fordele {
+  font-family: var(--font-family-aboreto);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: -0.38px;
+  line-height: 30px;
+  margin-left: 2.0px;
+  min-width: 154px;
+}
+
+.udvalg .x3fordele {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 102px;
+  margin-top: 28px;
+  min-width: 873px;
+}
+
+.udvalg .flex-col-2 {
+  align-items: center;
+  gap: 6px;
+  min-height: 84px;
+  width: 212px;
+}
+
+.udvalg .bredygtige-planter {
+  letter-spacing: -0.30px;
+  line-height: 24px;
+  margin-left: 2.0px;
+  min-width: 182px;
+  white-space: nowrap;
+}
+
+.udvalg .herboende-stauder-og {
+  letter-spacing: -0.23px;
+  line-height: 18px;
+  min-height: 54px;
+  text-align: center;
+  width: 212px;
+}
+
+.udvalg .flex-col-3 {
+  align-items: center;
+  gap: 6px;
+  margin-left: 105px;
+  min-height: 102px;
+  width: 228px;
+}
+
+.udvalg .personlig-vejledning {
+  letter-spacing: -0.30px;
+  line-height: 24px;
+  margin-left: 17.0px;
+  min-width: 187px;
+  white-space: nowrap;
+}
+
+.udvalg .vores-erfarne-havede {
+  letter-spacing: -0.23px;
+  line-height: 18px;
+  min-height: 72px;
+  text-align: center;
+  width: 228px;
+}
+
+.udvalg .rende-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-left: 119px;
+  min-height: 102px;
+  width: 197px;
+}
+
+.udvalg .inspirerende-udvalg {
+  letter-spacing: -0.30px;
+  line-height: 24px;
+  margin-left: 6.0px;
+  min-width: 179px;
+  white-space: nowrap;
+}
+
+.udvalg .fra-blomstrende-stau {
+  letter-spacing: -0.23px;
+  line-height: 18px;
+  min-height: 72px;
+  text-align: center;
+  width: 197px;
+}
+
+.udvalg .overlap-group-3 {
+  align-items: center;
+  background-color: #32463a;
+  display: flex;
+  height: 28px;
+  margin-top: 37px;
+  min-width: 198px;
+  padding: 0 17px;
+}
+
+.udvalg .planterogbede-sektion {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 6.0px;
+  margin-top: 54px;
+  min-width: 1446px;
+}
+
+.udvalg .overlap-group-1 {
+  align-items: center;
+  background-color: var(--hint-of-red);
+  display: flex;
+  gap: 160px;
+  height: 681px;
+  justify-content: flex-end;
+  min-width: 1440px;
+  padding: 59px 203px;
+}
+
+.udvalg .flex-col-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  min-height: 502px;
+  width: 560px;
+}
+
+.udvalg .number-1 {
+  letter-spacing: -0.38px;
+  line-height: 30px;
+  width: 427px;
+}
+
+.udvalg .title {
+  letter-spacing: -0.61px;
+  line-height: 48px;
+  width: 427px;
+}
+
+.udvalg .have {
+  letter-spacing: -0.38px;
+  line-height: 30px;
+  margin-top: 55px;
+  min-height: 369px;
+  width: 560px;
+}
+
+.udvalg .skrmbillede-2024-12-09-kl-084212 {
+  height: 415px;
+  margin-bottom: 10.0px;
+  object-fit: cover;
+  width: 309px;
+}
+
+.udvalg .overlap-group-2 {
+  align-items: center;
+  background-color: var(--hint-of-red);
+  display: flex;
+  height: 77px;
+  min-width: 1440px;
+}
+
+.udvalg .rectangle-6 {
+  background-color: var(--white);
+  height: 29px;
+  width: 1440px;
+}
+
+.udvalg .x-sektion {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 6.0px;
+  min-width: 1446px;
+}
+
+.udvalg .flex-col-4 {
+  align-items: flex-start;
+  align-self: flex-end;
+  gap: 63px;
+  min-height: 502px;
+  width: 560px;
+}
+
+.udvalg .overlap-group-4 {
+  height: 70px;
+  position: relative;
+  width: 427px;
+}
+
+.udvalg .number-3 {
+  left: 0;
+  letter-spacing: -0.38px;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  width: 427px;
+}
+
+.udvalg .stueplanter {
+  left: 0;
+  letter-spacing: -0.61px;
+  line-height: 48px;
+  position: absolute;
+  top: 22px;
+  width: 427px;
+}
+
+.udvalg .invitr-naturen-inde {
+  letter-spacing: -0.38px;
+  line-height: 30px;
+  min-height: 369px;
+  width: 560px;
+}
+
+.udvalg .kkkenhaven {
+  letter-spacing: -0.61px;
+  line-height: 48px;
+  width: 427px;
+}
+
+.udvalg .skrmbillede-2024-12-09-kl-084212-1 {
+  height: 415px;
+  margin-bottom: 10.0px;
+  width: 309px;
+}
+
+.udvalg .service {
+  letter-spacing: -0.61px;
+  line-height: 48px;
+  width: 427px;
+}
+
+.udvalg .har-du-sprgsml {
+  color: var(--black);
+  font-family: var(--font-family-playfair_display);
+  font-size: 26px;
+  font-weight: 500;
+  letter-spacing: -0.49px;
+  line-height: 39px;
+  margin-top: 153px;
+  min-width: 262px;
+  white-space: nowrap;
+}
+
+.udvalg .vi-str-klar-til-at {
+  color: var(--black);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  letter-spacing: -0.28px;
+  line-height: 22.5px;
+  margin-left: 1.0px;
+  margin-top: 12px;
+  min-height: 46px;
+  text-align: center;
+  width: 741px;
+}
+
+.udvalg .flex-row-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 599px;
+  height: 62px;
+  margin-right: 36px;
+  margin-top: 62px;
+  min-width: 703px;
+}
+
+.udvalg .vector-1 {
+  height: 33px;
+  width: 39px;
+}
+
+.udvalg .up-knap {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: var(--timberwolf);
+  cursor: pointer;
+  display: flex;
+  height: 35px;
+  justify-content: flex-end;
+  min-width: 65px;
+  padding: 13px 24.6px;
+}
+
+.udvalg .footer {
+  align-items: flex-start;
+  background-color: #f3f2ed;
+  border-bottom-style: none;
+  border-color: var(--timberwolf);
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: solid;
+  border-top-width: 1px;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  gap: 215px;
+  height: 442px;
+  justify-content: flex-start;
+  margin-top: 77px;
+  min-width: 1440px;
+  padding: 94px 381px;
+  width: auto;
+}
+
+.udvalg .flex-col-5 {
+  align-items: center;
+  min-height: 252px;
+  width: 282px;
+}
+
+.udvalg .find-os-her {
+  color: var(--black);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  letter-spacing: -0.46px;
+  line-height: 36px;
+  min-width: 130px;
+  white-space: nowrap;
+}
+
+.udvalg .emdrupvej-322100-k {
+  letter-spacing: -0.46px;
+  line-height: 36px;
+  min-height: 216px;
+  min-width: 282px;
+  text-align: center;
+}
+
+.udvalg .flex-col-6 {
+  align-items: center;
+  min-height: 199px;
+  width: 180px;
+}
+
+.udvalg .bningstider {
+  color: var(--black);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  letter-spacing: -0.46px;
+  line-height: 36px;
+  margin-left: 1.0px;
+  min-width: 153px;
+  white-space: nowrap;
+}
+
+.udvalg .mandag-fredag1000-1700 {
+  letter-spacing: -0.46px;
+  line-height: 36px;
+  min-height: 72px;
+  min-width: 180px;
+  text-align: center;
+}
+
+.udvalg .lrdag-sndag1000-1500 {
+  letter-spacing: -0.46px;
+  line-height: 36px;
+  margin-top: 19px;
+  min-height: 72px;
+  min-width: 176px;
+  text-align: center;
+}
+
+.udvalg .flex {
+  align-items: flex-start;
+  display: flex;
+}
+
+.udvalg .flex-col-7 {
+  display: flex;
+  flex-direction: column;
+}
+
+.udvalg .vores {
+  color: var(--black);
+  white-space: nowrap;
+}

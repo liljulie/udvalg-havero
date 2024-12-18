@@ -1,0 +1,49 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Playfair+Display:500,400|Maven+Pro:500,400|Montserrat:500,400|Aboreto:400");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/651bff2a92989614c286018a.651bff2b92989614c286018d.0g21oep.hcp.png");
+
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.align-self-flex-end {
+  align-self: flex-end;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.opdag-vores-sortiment {
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxxs);
+  font-weight: 500;
+  letter-spacing: -0.23px;
+  line-height: 18px;
+  min-width: 164px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.arrow-1 {
+  height: 8px;
+  width: 15px;
+}

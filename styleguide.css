@@ -1,0 +1,106 @@
+:root { 
+  --black: #000000;
+  --hint-of-red: #f9f9f9;
+  --timberwolf: #dad3c9;
+  --white: #ffffff;
+ 
+  --font-size-l: 24px;
+  --font-size-m: 20px;
+  --font-size-s: 16px;
+  --font-size-xs: 15px;
+  --font-size-xxs: 14px;
+  --font-size-xxxs: 12px;
+  --font-size-xxxxs: 8px;
+ 
+  --font-family-aboreto: "Aboreto", Helvetica;
+  --font-family-maven_pro: "Maven Pro", Helvetica;
+  --font-family-montserrat: "Montserrat", Helvetica;
+  --font-family-playfair_display: "Playfair Display", Helvetica;
+}
+.playfairdisplay-normal-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-playfair_display);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.mavenpro-normal-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-maven_pro);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.montserrat-normal-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.playfairdisplay-normal-black-32px {
+  color: var(--black);
+  font-family: var(--font-family-playfair_display);
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.mavenpro-normal-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-maven_pro);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.playfairdisplay-medium-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-playfair_display);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.aboreto-normal-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-aboreto);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.montserrat-medium-black-12px {
+  color: var(--black);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.mavenpro-normal-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-maven_pro);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.aboreto-normal-black-12px {
+  color: var(--black);
+  font-family: var(--font-family-aboreto);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.montserrat-normal-black-8px {
+  color: var(--black);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 400;
+}

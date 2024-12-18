@@ -1,0 +1,377 @@
+/* screen - iphone-16-1 */
+
+.iphone-16-1 {
+  align-items: center;
+  background-color: #f8f7f2;
+  display: flex;
+  flex-direction: column;
+  height: 2956px;
+  overflow: hidden;
+  width: 393px;
+}
+
+.iphone-16-1 .title {
+  color: var(--black);
+  font-family: var(--font-family-playfair_display);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  letter-spacing: -0.46px;
+  line-height: 36px;
+  margin-right: 1.0px;
+  margin-top: 85px;
+  min-width: 92px;
+  white-space: nowrap;
+}
+
+.iphone-16-1 .rectangle-69 {
+  height: 136px;
+  margin-top: 9px;
+  object-fit: cover;
+  width: 393px;
+}
+
+.iphone-16-1 .overlap-group4 {
+  align-items: center;
+  background-color: #e4e1da;
+  display: flex;
+  flex-direction: column;
+  margin-top: 51px;
+  min-height: 189px;
+  padding: 20px 0;
+  width: 393px;
+}
+
+.iphone-16-1 .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 17px;
+  height: 57px;
+  min-width: 333px;
+}
+
+.iphone-16-1 .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  min-height: 57px;
+  width: 159px;
+}
+
+.iphone-16-1 .bredygtige-planter {
+  letter-spacing: -0.23px;
+  line-height: 18px;
+  min-width: 137px;
+  white-space: nowrap;
+}
+
+.iphone-16-1 .herboende-stauder-og {
+  letter-spacing: -0.15px;
+  line-height: 12px;
+  min-height: 36px;
+  text-align: center;
+  width: 159px;
+}
+
+.iphone-16-1 .rende-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  min-height: 57px;
+  width: 157px;
+}
+
+.iphone-16-1 .inspirerende-udvalg {
+  letter-spacing: -0.23px;
+  line-height: 18px;
+  min-width: 135px;
+  white-space: nowrap;
+}
+
+.iphone-16-1 .fra-blomstrende-stau {
+  letter-spacing: -0.15px;
+  line-height: 12px;
+  min-height: 36px;
+  text-align: center;
+  width: 157px;
+}
+
+.iphone-16-1 .personlig-vejledning {
+  letter-spacing: -0.23px;
+  line-height: 18px;
+  margin-top: 33px;
+  min-width: 141px;
+  white-space: nowrap;
+}
+
+.iphone-16-1 .vores-erfarne-havede {
+  letter-spacing: -0.15px;
+  line-height: 12px;
+  margin-left: 1.0px;
+  margin-top: 3px;
+  min-height: 36px;
+  text-align: center;
+  width: 164px;
+}
+
+.iphone-16-1 .vores-fordele {
+  color: var(--black);
+  font-family: var(--font-family-aboreto);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: -0.38px;
+  line-height: 30px;
+  margin-right: 1.0px;
+  margin-top: 38px;
+  min-width: 154px;
+  white-space: nowrap;
+}
+
+.iphone-16-1 .sortiment-sektion {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 1.0px;
+  margin-top: 13px;
+  min-width: 200px;
+}
+
+.iphone-16-1 .overlap-group1 {
+  align-items: center;
+  background-color: #32463a;
+  display: flex;
+  height: 28px;
+  min-width: 198px;
+  padding: 0 17px;
+}
+
+.iphone-16-1 .overlap-group3 {
+  align-items: center;
+  background-color: var(--hint-of-red);
+  display: flex;
+  flex-direction: column;
+  margin-top: 39px;
+  min-height: 1816px;
+  padding: 22px 0;
+  width: 393px;
+}
+
+.iphone-16-1 .planter-til-have-og-bede {
+  letter-spacing: -0.30px;
+  line-height: 24px;
+  margin-bottom: -6px;
+  min-height: 18px;
+  text-align: center;
+  white-space: nowrap;
+  width: 283px;
+}
+
+.iphone-16-1 .skrmbillede-2024-12-09-kl-084212 {
+  height: 154px;
+  margin-top: 21px;
+  object-fit: cover;
+  width: 283px;
+}
+
+.iphone-16-1 .have {
+  letter-spacing: -0.27px;
+  line-height: 21px;
+  margin-top: 4px;
+  min-height: 189px;
+  text-align: center;
+  width: 283px;
+}
+
+.iphone-16-1 .overlap-group3-item {
+  letter-spacing: -0.30px;
+  line-height: 24px;
+  margin-bottom: -6px;
+  margin-top: 33px;
+  min-height: 18px;
+  text-align: center;
+  white-space: nowrap;
+  width: 279px;
+}
+
+.iphone-16-1 .skrmbillede-2024-12-09-kl-084212-1 {
+  height: 153px;
+  margin-top: 21px;
+  object-fit: cover;
+  width: 283px;
+}
+
+.iphone-16-1 .invitr-naturen-inde {
+  letter-spacing: -0.27px;
+  line-height: 21px;
+  margin-top: 4px;
+  min-height: 231px;
+  text-align: center;
+  width: 283px;
+}
+
+.iphone-16-1 .kkkenhaven {
+  letter-spacing: -0.30px;
+  line-height: 24px;
+  margin-bottom: -7px;
+  margin-top: 33px;
+  min-height: 17px;
+  text-align: center;
+  white-space: nowrap;
+  width: 279px;
+}
+
+.iphone-16-1 .hos-havero-plantesko {
+  letter-spacing: -0.27px;
+  line-height: 21px;
+  margin-top: 4px;
+  min-height: 210px;
+  text-align: center;
+  width: 283px;
+}
+
+.iphone-16-1 .overlap-group2 {
+  height: 254px;
+  margin-top: 62px;
+  position: relative;
+  width: 393px;
+}
+
+.iphone-16-1 .rectangle-67 {
+  background-color: var(--white);
+  height: 237px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 393px;
+}
+
+.iphone-16-1 .vector {
+  height: 21px;
+  left: 184px;
+  position: absolute;
+  top: 185px;
+  width: 25px;
+}
+
+.iphone-16-1 .har-du-sprgsml {
+  color: var(--black);
+  font-family: var(--font-family-playfair_display);
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  left: 121px;
+  letter-spacing: -0.28px;
+  line-height: 22.5px;
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+}
+
+.iphone-16-1 .vi-str-klar-til-at {
+  color: var(--black);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxxs);
+  font-weight: 400;
+  left: 44px;
+  letter-spacing: -0.23px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 61px;
+  width: 304px;
+}
+
+.iphone-16-1 .up-knap {
+  align-items: flex-start;
+  background-color: var(--timberwolf);
+  cursor: pointer;
+  display: flex;
+  height: 35px;
+  justify-content: flex-end;
+  left: 315px;
+  min-width: 65px;
+  padding: 13.0px 24.6px;
+  position: absolute;
+  top: 219px;
+}
+
+.iphone-16-1 .footer {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  justify-content: flex-start;
+  margin-left: 8.0px;
+  margin-top: 15px;
+  min-width: 401px;
+  width: auto;
+}
+
+.iphone-16-1 .flex-row-1 {
+  align-items: center;
+  background-color: #f0efea;
+  border-color: var(--timberwolf);
+  border-top-style: solid;
+  border-top-width: 0.5px;
+  display: flex;
+  gap: 48px;
+  height: 155px;
+  min-width: 393px;
+  padding: 0 78px;
+}
+
+.iphone-16-1 .flex-col-1 {
+  margin-bottom: 36.0px;
+  min-height: 57px;
+  width: 92px;
+}
+
+.iphone-16-1 .find-os-her {
+  letter-spacing: -0.27px;
+  line-height: 21px;
+  min-width: 68px;
+  white-space: nowrap;
+}
+
+.iphone-16-1 .emdrupvej-322100-kbenhavn {
+  color: var(--black);
+  font-family: var(--font-family-maven_pro);
+  font-size: var(--font-size-xxxs);
+  font-weight: 500;
+  letter-spacing: -0.23px;
+  line-height: 18px;
+  min-height: 36px;
+  min-width: 92px;
+  text-align: center;
+}
+
+.iphone-16-1 .flex-col-2 {
+  min-height: 93px;
+  width: 97px;
+}
+
+.iphone-16-1 .bningstider {
+  letter-spacing: -0.27px;
+  line-height: 21px;
+  margin-left: 1.0px;
+  min-width: 78px;
+  white-space: nowrap;
+}
+
+.iphone-16-1 .mandag-fredag10 {
+  color: var(--black);
+  font-family: var(--font-family-maven_pro);
+  font-size: var(--font-size-xxxs);
+  font-weight: 500;
+  letter-spacing: -0.23px;
+  line-height: 18px;
+  min-height: 72px;
+  min-width: 97px;
+  text-align: center;
+}
+
+.iphone-16-1 .flex-col-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
